@@ -6,3 +6,4 @@ Renewed main page of wooriseniorplus
  * web accessibility
  * responsive
  * jquery
+ * swiper.js, slick.js
