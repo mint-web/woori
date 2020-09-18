@@ -1,8 +1,8 @@
-# portfolio01 : GURO-Guro  District Office
+# portfolio04 : wooriseniorplus responsive
 
-Renewed main page of GURO-Guro  District Office
+Renewed main page of wooriseniorplus
 
- * html5 /css3
- * web accessibility / W3C
+ * html5 /css3 (flex)
+ * web accessibility
  * responsive
  * jquery
